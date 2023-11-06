@@ -1,0 +1,15 @@
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\bin\Debug\netstandard2.0\AppCliama.deps.json
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\bin\Debug\netstandard2.0\AppCliama.dll
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\bin\Debug\netstandard2.0\ref\AppCliama.dll
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\bin\Debug\netstandard2.0\AppCliama.pdb
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.AssemblyInfoInputs.cache
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.AssemblyInfo.cs
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.dll
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\refint\AppCliama.dll
+C:\Users\Usuario\AppClima\AppCliama\AppCliama\obj\Debug\netstandard2.0\AppCliama.pdb
