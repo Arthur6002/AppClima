@@ -14,5 +14,10 @@ namespace AppCliama
         {
             InitializeComponent();
         }
+
+        private void btnPrevisao_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
